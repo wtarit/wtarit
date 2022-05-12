@@ -11,7 +11,7 @@ on other platforms (web app, mobile app and embedded system). I’m currently st
 
 # Social Media
 - [Medium](https://wtarit.medium.com/)
-- [Twitter](https://twitter.com/witworrasakul)
+- [Twitter](https://twitter.com/wtarit05)
 
 <!---
 wtarit/wtarit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
