@@ -1,11 +1,8 @@
-Hi, my name is Tarit Witworrasakul. I’m interested in basically everything related to programming. I started from arduino robot programming but now I also do programming
-on other platforms (web app, mobile app and embedded system). I’m currently studying Deep learning and Machine Learning.
+Hi, my name is Tarit Witworrasakul. I’m interested in basically everything related to programming. I like to solve problems through programming and make life easier. I started with Arduino robot programming. Now I also do programming for other platforms including web apps, mobile apps, and embedded systems.
 
 # Language, library and tools I'm currently using
 - Python
 - Opencv
-- Javascript
-- React/NextJS
 - Dart
 - Flutter
 
