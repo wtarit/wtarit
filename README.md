@@ -5,6 +5,8 @@ Hi, my name is Tarit Witworrasakul. I’m interested in basically everything rel
 - Opencv
 - Dart
 - Flutter
+- Typescript
+- Next.js
 
 # Social Media
 - [Medium](https://wtarit.medium.com/)
