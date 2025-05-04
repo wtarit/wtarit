@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tarit Witworrasakul!
 
-I’m a second-year Computer Science student at the University of British Columbia (UBC) with a passion for solving problems and building solutions to make life easier through programming. My journey began with Arduino robot programming, which sparked my interest in creating innovative systems. Over time, I expanded my skill set to include web development, mobile apps, and embedded systems.
+I’m a third-year Computer Science student at the University of British Columbia (UBC) with a passion for solving problems and building solutions to make life easier through programming. My journey began with Arduino robot programming, which sparked my interest in creating innovative systems. Over time, I expanded my skill set to include web development, mobile apps, and embedded systems.
 
 I believe in continuous learning and enjoy exploring new tools and technologies. Whether it's crafting efficient algorithms or designing user-friendly applications, I'm always up for a challenge.
 
